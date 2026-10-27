@@ -12,5 +12,5 @@ Key insights include:
 
 ## Dashboard Screenshot
 
-![Superstore Sales Dashboard 1](images/dashboard1.png)
-[Superstore Sales Dashboard 2](images/dashboard2.png)
+![Superstore Sales Dashboard 1](images/dashboard1.jpeg)
+[Superstore Sales Dashboard 2](images/dashboard2.jpeg)
